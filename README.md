@@ -27,17 +27,12 @@
 ###
 
 <div align="left">
-  <!-- Controle de versão -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo" />
 <img width="12" />
-
-<!-- Linguagem principal -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="go logo" />
 <img width="12" />
-
-<!-- Frontend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5 logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="css3 logo" />
@@ -51,6 +46,6 @@
 <br>
 <br>
 
-<img align="center" width="300" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBrdm9zbXJkNW9uNmZjbWEzMDR0N3QwdTh4ZWkyb2l1ajR3YnZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
+<img align="center" width="100%" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBrdm9zbXJkNW9uNmZjbWEzMDR0N3QwdTh4ZWkyb2l1ajR3YnZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif"  />
 
 ###
