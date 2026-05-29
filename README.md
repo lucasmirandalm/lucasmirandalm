@@ -14,7 +14,7 @@
   <p align="left">
     I’m currently studying information systems at the federal institute of Rio de Janeiro<br><br>
     ✨ Creating bugs since 2023<br>
-    ⚡ Fun fact: BMX Rider and Judoka<br>
+    ⚡ Fun fact: BMX Rider and Judo \ Jiu-Jitsu<br>
     📚 I'm currently learning Python<br>
     🎯 Goals: close VIM<br>
   </p>
