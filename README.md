@@ -15,7 +15,7 @@
     I’m currently studying information systems at the federal institute of Rio de Janeiro<br><br>
     ✨ Creating bugs since 2023<br>
     ⚡ Fun fact: BMX Rider and Judo \ Jiu-Jitsu<br>
-    📚 I'm currently learning Python<br>
+    📚 I'm currently learning GO<br>
     🎯 Goals: close VIM<br>
   </p>
 </div>
@@ -31,11 +31,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="django logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="fastapi logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="python logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5 logo" />
 <img width="12" />
